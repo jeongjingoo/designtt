@@ -1,7 +1,9 @@
 # React Admin Dashboard
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+디자인티티 관리자 페이지 입니다.
 
-Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
+설치
+npm install
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+시작
+npm start
