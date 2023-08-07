@@ -25,7 +25,6 @@
     "@testing-library/user-event": "^13.5.0",
     "chart.js": "^3.9.1",
     "formik": "^2.2.9",
-    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-chartjs-2": "^4.3.1",
     "react-dom": "^18.2.0",
@@ -41,7 +40,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "prdeploy": "npm run build", 
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -62,5 +61,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://jeongjingoo.github.io/designtt"
+  "homepage": "https://jeongjingoo.github.io/designtt/",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
